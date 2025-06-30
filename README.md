@@ -4,11 +4,11 @@
 
 This project is a practical framework for building **research agents**—AI systems that can reason, use tools, and make decisions when analyzing complex, unstructured data. Unlike standard Retrieval-Augmented Generation (RAG) pipelines, this framework enables agents to intelligently navigate, retrieve, summarize, and compare information across multiple documents with autonomous reasoning capabilities.
 
-You'll build increasingly advanced agents across four modules, from simple query routing to autonomous multi-step reasoning over research documents.
+Developed advanced agents from simple query routing to autonomous multi-step reasoning over research documents.
 
 ---
 
-## 🧠 What You’ll Build
+## 🧠 Scope of the Project
 
 ### 1. 🧭 Router Agent (Basic Agentic RAG)
 A simple agent that routes a query to either a:
